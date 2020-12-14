@@ -37,6 +37,7 @@ Prebuild python builds for ubuntu
 * [3.8.5](18.04/python-3.8.5.tar.xz)
 * [3.8.6](18.04/python-3.8.6.tar.xz)
 * [3.9.0](18.04/python-3.9.0.tar.xz)
+* [3.9.1](18.04/python-3.9.1.tar.xz)
 
 
 ## ubuntu 20.04
@@ -72,3 +73,4 @@ Prebuild python builds for ubuntu
 * [3.8.5](20.04/python-3.8.5.tar.xz)
 * [3.8.6](20.04/python-3.8.6.tar.xz)
 * [3.9.0](20.04/python-3.9.0.tar.xz)
+* [3.9.1](20.04/python-3.9.1.tar.xz)
